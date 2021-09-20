@@ -129,7 +129,7 @@ span {
     margin-bottom: 10px;
   }
   .header li + li {
-    padding-left: 10px;
+    padding-left: 6px;
   }
   .logo {
     max-width: 60px;
